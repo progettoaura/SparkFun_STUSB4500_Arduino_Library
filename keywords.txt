@@ -49,4 +49,4 @@ setReqSrcCurrent	KEYWORD2
 # Constants (LITERAL1)
 #######################################
 
-DEFAULT	LITERAL1
+STUSB_DEFAULT	LITERAL1

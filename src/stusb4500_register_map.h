@@ -1,4 +1,4 @@
-#define DEFAULT                0xFF
+#define STUSB_DEFAULT                0xFF
 
 #define FTP_CUST_PASSWORD_REG  0x95
 #define FTP_CUST_PASSWORD      0x47

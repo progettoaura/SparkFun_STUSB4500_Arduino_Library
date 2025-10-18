@@ -47,7 +47,7 @@ void setup()
   Serial.println("Connected to STUSB4500!");
   delay(100);
 
-  usb.write(DEFAULT);
+  usb.write(STUSB_DEFAULT);
   Serial.println("Done writing default settings!\n");
   
   /* Read the NVM settings to verify the new settings are correct */
